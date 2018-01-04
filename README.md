@@ -1,3 +1,7 @@
+Link to Report:
+
+https://drive.google.com/file/d/1JPImtG958uLn4a3SXbMhufUAOKeWhQBi/view?usp=sharing
+
 # Dependencies
 * Windows 10 64bit with GTX1070
 * python==3.5.3
